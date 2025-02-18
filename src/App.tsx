@@ -5,12 +5,12 @@ import { Autoplay } from 'swiper/modules';
 import 'swiper/css';
 
 const photos = [
-  "/photo1.jpg",
-  "/photo2.jpg",
-  "/photo3.jpg",
-  "/photo4.jpg",
-  "/photo5.jpg",
-  "/photo6.jpg"
+  "/dist/assets/photo1.jpg",
+  "/dist/assets/photo2.jpg",
+  "/dist/assets/photo3.jpg",
+  "/dist/assets/photo4.jpg",
+  "/dist/assets/photo5.jpg",
+  "/dist/assets/photo6.jpg"
 ];
 
 function App() {
